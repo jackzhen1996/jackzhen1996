@@ -5,8 +5,8 @@
 ### If any of my projects sound interesting to you, feel free to check them out through the deployed links in each repo, or check out the code 🥺
 
 ### Feel free to connect with me through:
-### LinkedIn: https://www.linkedin.com/in/jackzhen/
-### Email: jackzhen999@gmail.com
+#### LinkedIn: https://www.linkedin.com/in/jackzhen/
+#### Email: jackzhen999@gmail.com
 
 
 
