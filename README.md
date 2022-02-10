@@ -3,7 +3,6 @@
 
 ### I'm Jack and I'm a Software Engineer at Swiftly.Inc 👨‍💻 . I used to be a Civil Engineer 👷‍♂️ and build buildings, but now I build apps 🤓 and I'm lovin it!
 
-### Feel free to connect with me through:
 #### LinkedIn: https://www.linkedin.com/in/jackzhen/
 #### Email: jackzhen999@gmail.com
 
